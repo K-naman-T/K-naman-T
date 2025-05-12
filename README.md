@@ -12,7 +12,7 @@
 <p align="center">
   <a href="mailto:talktonaman@duck.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kumar-naman-tiwary-b16621214"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-   <a href="https://github.com/K-naman-T/K-naman-T/blob/main/Resume___Naman(6).pdf" target="_blank">
+   <a href="https://github.com/K-naman-T/K-naman-T/Resume___Naman(6).pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=flat&logo=adobe-acrobat-reader" alt="Resume PDF"/></a>
   <img src="https://komarev.com/ghpvc/?username=K-naman-T&style=flat&color=brightgreen" alt="profile views"/>
 </p>
