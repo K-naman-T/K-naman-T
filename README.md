@@ -52,13 +52,13 @@
 <p>
   <img src="https://www.vyomchara.com/assets/images/footer.png" width="200" height="auto"/>
   <br>
-  <i>SDE Trainee</i>  
+  <i>Full Stack Dev</i>  
   <br>
   Developed the company’s website from scratch, focusing on user experience and accessibility. Built practical tools to speed up and improve the accuracy of mineral identification using advanced imaging and AI-driven analysis.
 </p>
 
 <p>
-  <img src="https://scontent.fixr5-1.fna.fbcdn.net/v/t39.30808-6/469065041_590181130034350_4310658623359195583_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dMM4lI-i-nUQ7kNvwFaj8Aj&_nc_oc=AdmFBU1I8v8OKeaTQjOTXeoOWMI0Vblz2xg1VAFMTGEsCfqhaJQfvzsSfZFdcTaSPzD9DXTGoWnoOdEygqr_7PnQ&_nc_zt=23&_nc_ht=scontent.fixr5-1.fna&_nc_gid=H8D7I76X4Eb7uLq28swwOw&oh=00_AfIHYfZuV1Fn0DQGfe6y2E924JCSExVTK9Q7Cl55mZgvNw&oe=6827F5D2" width="200" height="auto"/>
+  <img src="https://texmin.in/wp-content/uploads/2021/05/Texmin-Foundation-whitenew.png" width="200" height="auto"/>
   <br>
   <i>Project Intern</i>  
   <br>
