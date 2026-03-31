@@ -44,8 +44,8 @@ Specialized in integrating LLMs, computer vision, and speech models into real-wo
 
 ## Work Experience
 
-### VyomChara Pvt. Ltd. -- Software Engineer Trainee
-*Jan 2024 -- Present | Hybrid*
+[![VyomChara](https://www.vyomchara.com/assets/images/footer.png)](https://www.vyomchara.com)  
+**Software Engineer Trainee** | *Jan 2024 -- Present | Hybrid*
 
 - Architected an AI-powered case management platform with agentic investigation workflows -- autonomous task delegation across specialized agents for document processing, evidence analysis, and legal vetting
 - Developed an on-premise RAG system combining vector database retrieval with full-text indexing for real-time text/image Q&A
@@ -55,16 +55,16 @@ Specialized in integrating LLMs, computer vision, and speech models into real-wo
 - Engineered company website achieving 90+ Lighthouse score with 99.9% uptime supporting 3K+ monthly visitors
 - Built deployment pipelines and dev environments for startups incubated under the TEXMiN foundation
 
-### TEXMiN, IIT ISM Dhanbad -- Software Engineering Intern
-*May 2025 -- Jul 2025*
+[![TEXMiN](https://texmin.in/wp-content/uploads/2021/05/Texmin-Foundation-whitenew.png)](https://texmin.in)  
+**Software Engineering Intern** | *May 2025 -- Jul 2025*
 
 - Benchmarked multiple deep learning architectures (3D CNN, HybridSN, Capsule Networks) for mineral segmentation, achieving 99%+ validation accuracy
 - Architected microservices backend for hyperspectral image analysis; containerized 5 specialized services with GPU detection and memory management
 - Operationalized ML models via REST APIs supporting high-throughput batch processing for industrial use cases
 - Built React frontend with responsive scientific data visualization interfaces
 
-### TEXMiN, IIT ISM Dhanbad -- Project Intern
-*Aug 2023 -- Jan 2024*
+[![TEXMiN](https://texmin.in/wp-content/uploads/2021/05/Texmin-Foundation-whitenew.png)](https://texmin.in)  
+**Project Intern** | *Aug 2023 -- Jan 2024*
 
 - Analyzed 10+ academic papers on hyperspectral mineral classification, benchmarking model performance on EO1-Hyperion datasets
 - Authored comprehensive comparison report of deep learning models for mineral classification
