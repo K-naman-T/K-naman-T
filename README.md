@@ -45,7 +45,7 @@ Specialized in integrating LLMs, computer vision, and speech models into real-wo
 ## Work Experience
 
 [![VyomChara](https://www.vyomchara.com/assets/images/footer.png)](https://www.vyomchara.com)  
-**Software Engineer Trainee** | *Jan 2024 -- Present | Hybrid*
+**SDE** | *Jan 2024 -- Present | Hybrid*
 
 - Architected an AI-powered case management platform with agentic investigation workflows -- autonomous task delegation across specialized agents for document processing, evidence analysis, and legal vetting
 - Developed an on-premise RAG system combining vector database retrieval with full-text indexing for real-time text/image Q&A
